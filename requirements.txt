@@ -8,5 +8,3 @@ pandas
 ringcentral
 datetime
 azure.storage.blob
-io
-logging
