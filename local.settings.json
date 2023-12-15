@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "RC_CLIENT_ID": "R97B2siGQ-6uNnxFKcrbSA",
+    "RC_CLIENT_SECRET": "OpPXMwRDSSShAUzyZQrI0QP1zGR3MOSYm97nxVa2wHBA",
+    "RC_SERVER_URL": "https://platform.ringcentral.com",
+    "RC_JWT": "eyJraWQiOiI4NzYyZjU5OGQwNTk0NGRiODZiZjVjYTk3ODA0NzYwOCIsInR5cCI6IkpXVCIsImFsZyI6IlJTMjU2In0.eyJhdWQiOiJodHRwczovL3BsYXRmb3JtLnJpbmdjZW50cmFsLmNvbS9yZXN0YXBpL29hdXRoL3Rva2VuIiwic3ViIjoiMTExNzk4ODA0OCIsImlzcyI6Imh0dHBzOi8vcGxhdGZvcm0ucmluZ2NlbnRyYWwuY29tIiwiZXhwIjozODUwMTI4NTEwLCJpYXQiOjE3MDI2NDQ4NjMsImp0aSI6IkphWFl5Q21rUWNpem5hbHRGRjBJNmcifQ.EgLvvrp1yrPkwQS44jAFxqwQi40ERlHIKf5F2O_BbMFVK7s6fTuDqEWcV9NYWtZW0yi-SCVEnI4cHDyGCKqdBYxVFVymlmiQQY4hfpP6-yYLCCZJYn5Tzizhdq-jZohsQ13V8SwlhrNLkiEu0hxQQ6ToIlYkKW_XPhAvABmA3LrhqmST2F-JIrn9IOGkkx_MQ9t8xs2bdcrjqEoCq3MVhCtKNGzR3wWKSjBe-stxcR_hWVpVJZvbSTY8Mp3nZ6RI0lUSNouL4qE7yFxnaB1cOEzMhPfZXCh8XgxHDPDyiTF62vgIqe4ev6rtKTP0uDkbTZLTImBbjUQdq6Sc1uq3XQ",
+    "BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=ringcentralreportinbd72;AccountKey=F/fnB7bqA1aXBLCfgbRI2JO61IVie5tcnaj2muos6FW0EYYXQ0DG4Opal6zEFxqU8zNsNd6EBoZa+AStcNUYjA==;EndpointSuffix=core.windows.net"
+  }
+}
